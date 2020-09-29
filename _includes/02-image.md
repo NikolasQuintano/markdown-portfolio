@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[GitHub Logo] (https://1000marcas.net/wp-content/uploads/2020/02/GitHub-Logo.jpg)
